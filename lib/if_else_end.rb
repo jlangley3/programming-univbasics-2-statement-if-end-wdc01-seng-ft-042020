@@ -6,4 +6,4 @@ Current_time = Current_time.to_i
 puts "Even!"
 else Current_time.to_i == odd
   puts "Odd!"
-  
+end
